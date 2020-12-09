@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BERT-Relation-Extraction/.idea/BERT-Relation-Extraction.iml" filepath="$PROJECT_DIR$/../BERT-Relation-Extraction/.idea/BERT-Relation-Extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenNRE/.idea/OpenNRE.iml" filepath="$PROJECT_DIR$/../OpenNRE/.idea/OpenNRE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/REFromPaper.iml" filepath="$PROJECT_DIR$/.idea/REFromPaper.iml" />
+    </modules>
+  </component>
+</project>
